@@ -1,0 +1,5 @@
+To play the game in your browser:
+
+Start the server from your terminal:
+python3 server.py
+Then visit http://localhost:6101 to play the game.
